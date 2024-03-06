@@ -1,8 +1,4 @@
 # ai_chatapp
-Certainly! Below is a basic README.md template for your Flutter chat application:
-
----
-
 # Flutter Chat Application
 
 This is a simple Flutter chat application that allows users to communicate with an AI backend using the Bing API. The application provides a user interface resembling ChatGPT, enabling users to send messages and receive responses in real-time.
